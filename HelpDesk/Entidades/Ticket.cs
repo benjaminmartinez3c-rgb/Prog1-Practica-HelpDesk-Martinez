@@ -1,5 +1,4 @@
-﻿namespace HelpDesk;
-
+﻿namespace HelpDesk.Entidades;
 public class Ticket
 {
     public int Id { get; set; }
